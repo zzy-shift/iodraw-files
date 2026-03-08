@@ -112,11 +112,8 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-17" value="信用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-173" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-18" target="FuI2qOrlYPCS4XPmSqR2-164">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-18" value="&lt;div&gt;嵌晶玉&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-19" value="&lt;div&gt;体力&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-520" y="150" width="120" height="60" as="geometry" />
@@ -371,7 +368,7 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-182" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-164" target="FuI2qOrlYPCS4XPmSqR2-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-184" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FuI2qOrlYPCS4XPmSqR2-182">
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-184" value="消耗" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FuI2qOrlYPCS4XPmSqR2-182">
           <mxGeometry x="-0.2147" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -402,6 +399,9 @@
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-178" value="&lt;b&gt;信用交易所&lt;br&gt;（活跃商店）&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-185" value="&lt;div&gt;嵌晶玉&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

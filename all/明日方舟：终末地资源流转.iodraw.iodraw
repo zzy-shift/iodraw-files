@@ -7,6 +7,10 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-240" target="FuI2qOrlYPCS4XPmSqR2-211">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-100" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="430" />
+              <mxPoint x="-100" y="430" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-240" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
@@ -311,7 +315,7 @@
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-224" value="产出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FuI2qOrlYPCS4XPmSqR2-222">
           <mxGeometry x="0.8018" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-98" value="&lt;b&gt;资源关卡&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">

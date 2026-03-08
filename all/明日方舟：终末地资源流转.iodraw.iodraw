@@ -51,6 +51,9 @@
             <mxPoint y="38" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-6" target="FuI2qOrlYPCS4XPmSqR2-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-6" value="大世界探索" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="460" y="210" width="189" height="100" as="geometry" />
         </mxCell>
@@ -307,7 +310,7 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-146" value="&lt;b&gt;区域商店&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-154" value="制造基建设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-154" value="送货玩法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

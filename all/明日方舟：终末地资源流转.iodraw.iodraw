@@ -447,8 +447,8 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-190" value="&lt;b&gt;通行证&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-201" value="&lt;b&gt;通行证&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-201" value="&lt;b&gt;任务&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

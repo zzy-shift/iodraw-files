@@ -324,11 +324,8 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-163" value="&lt;div&gt;衍质源石&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-164" target="FuI2qOrlYPCS4XPmSqR2-98">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-164" value="&lt;div&gt;体力&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="-60" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

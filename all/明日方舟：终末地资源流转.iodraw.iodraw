@@ -52,7 +52,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-6" target="FuI2qOrlYPCS4XPmSqR2-140">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-161" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FuI2qOrlYPCS4XPmSqR2-160">
+          <mxGeometry x="0.5423" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-6" value="大世界探索" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="460" y="210" width="189" height="100" as="geometry" />

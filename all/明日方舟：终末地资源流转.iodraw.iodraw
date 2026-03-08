@@ -94,8 +94,11 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-53" value="商品交易" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1020" y="735" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-57" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-57" value="等级/潜力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-58" value="等级/潜力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -130,9 +130,6 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-19" value="&lt;div&gt;体力&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-520" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-38" value="&lt;b&gt;工业基建系统&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="494.5" y="1070" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-40" target="FuI2qOrlYPCS4XPmSqR2-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -313,7 +310,7 @@
           <mxGeometry x="100" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-99" value="&lt;b&gt;深渊关卡&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-124" value="&lt;b&gt;塔防关卡&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="680" width="120" height="60" as="geometry" />

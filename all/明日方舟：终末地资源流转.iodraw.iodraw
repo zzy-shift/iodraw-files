@@ -471,7 +471,7 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-214" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-211" target="FuI2qOrlYPCS4XPmSqR2-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-215" value="消耗" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FuI2qOrlYPCS4XPmSqR2-214">
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-215" value="升级系统等级" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FuI2qOrlYPCS4XPmSqR2-214">
           <mxGeometry x="-0.3944" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-240" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-225" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#F7FBFC;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="670" y="225" width="520" height="445" as="geometry" />
         </mxCell>
@@ -525,7 +528,7 @@
           <mxGeometry x="-60" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-237" value="&lt;b&gt;支线任务&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="-60" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

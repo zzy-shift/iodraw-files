@@ -493,7 +493,10 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-227" value="醚质" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="FuI2qOrlYPCS4XPmSqR2-225">
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-225" target="FuI2qOrlYPCS4XPmSqR2-225">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="FuI2qOrlYPCS4XPmSqR2-227">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="649" y="289.53" as="sourcePoint" />
             <mxPoint x="784" y="289.53" as="targetPoint" />
@@ -501,7 +504,7 @@
               <mxPoint x="670" y="290" />
               <mxPoint x="670" y="310" />
               <mxPoint x="650" y="310" />
-              <mxPoint x="650" y="490" />
+              <mxPoint x="650" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -509,9 +512,6 @@
           <mxGeometry x="0.249" relative="1" as="geometry">
             <mxPoint x="-22" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-225" target="FuI2qOrlYPCS4XPmSqR2-225">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

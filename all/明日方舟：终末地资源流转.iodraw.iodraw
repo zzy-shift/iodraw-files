@@ -114,7 +114,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-48" value="地区调度券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-48" value="地区调度券" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="860" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-57" value="等级/潜力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">

@@ -112,6 +112,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OvL2cY3R03X3RKtkhRId-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-11" target="FuI2qOrlYPCS4XPmSqR2-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-11" value="&lt;b&gt;家园系统&lt;/b&gt;&lt;div&gt;&lt;b&gt;（帝江号）&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-160" y="600" width="120" height="60" as="geometry" />
         </mxCell>
@@ -459,7 +462,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-185" value="&lt;div&gt;衍质源石（付费货币）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-185" value="&lt;div&gt;衍质源石&lt;br&gt;（付费货币）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-192" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FuI2qOrlYPCS4XPmSqR2-190" target="FuI2qOrlYPCS4XPmSqR2-185" edge="1">

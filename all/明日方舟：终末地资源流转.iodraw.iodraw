@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-6" value="大世界探索" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1040" y="480" width="180" height="100" as="geometry" />
+          <mxGeometry x="990" y="320" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-8" target="FuI2qOrlYPCS4XPmSqR2-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-8" value="制造基建设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="735" width="120" height="60" as="geometry" />
+          <mxGeometry x="1290" y="735" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-10" value="&lt;b&gt;养成系统&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="810" width="120" height="60" as="geometry" />
@@ -29,13 +29,13 @@
           <mxGeometry x="110" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-14" value="基础矿石、植物" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="625" width="120" height="60" as="geometry" />
+          <mxGeometry x="1290" y="625" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-15" target="FuI2qOrlYPCS4XPmSqR2-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-15" value="基础矿石/植物" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="625" width="120" height="60" as="geometry" />
+          <mxGeometry x="1290" y="625" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-16" value="&lt;span style=&quot;background-color: initial;&quot;&gt;折金券（&lt;/span&gt;金币）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="200" width="120" height="60" as="geometry" />
@@ -58,8 +58,8 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-40" target="FuI2qOrlYPCS4XPmSqR2-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1180" y="855" />
-              <mxPoint x="1180" y="655" />
+              <mxPoint x="1450" y="855" />
+              <mxPoint x="1450" y="655" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -69,13 +69,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-40" value="地区建设" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="825" width="120" height="60" as="geometry" />
+          <mxGeometry x="1290" y="825" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-41" target="FuI2qOrlYPCS4XPmSqR2-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-41" value="材料加工" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="890" y="735" width="100" height="60" as="geometry" />
+          <mxGeometry x="1160" y="735" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-8" target="FuI2qOrlYPCS4XPmSqR2-41">
           <mxGeometry relative="1" as="geometry" />
@@ -84,10 +84,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-47" value="商品交易" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="735" width="120" height="60" as="geometry" />
+          <mxGeometry x="1010" y="735" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-48" value="地区调度券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="625" width="120" height="60" as="geometry" />
+          <mxGeometry x="1010" y="625" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

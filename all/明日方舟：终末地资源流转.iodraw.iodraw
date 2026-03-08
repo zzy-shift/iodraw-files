@@ -139,6 +139,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-61" target="FuI2qOrlYPCS4XPmSqR2-140">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="844" y="550" />
+              <mxPoint x="980" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-61" value="制造基建设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="784" y="440" width="120" height="60" as="geometry" />
         </mxCell>
@@ -277,7 +285,7 @@
             <mxPoint y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-140" value="制造基建设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-140" value="材料加工" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

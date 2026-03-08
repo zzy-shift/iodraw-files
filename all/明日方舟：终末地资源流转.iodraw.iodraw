@@ -199,8 +199,11 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-88" value="抽卡资源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="450" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-96" target="FuI2qOrlYPCS4XPmSqR2-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-96" value="&lt;b&gt;活动关卡&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

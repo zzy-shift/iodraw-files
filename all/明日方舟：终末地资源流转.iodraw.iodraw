@@ -52,7 +52,7 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-33" value="材料加工" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="-260" y="445" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-34" value="&lt;b&gt;养成系统&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

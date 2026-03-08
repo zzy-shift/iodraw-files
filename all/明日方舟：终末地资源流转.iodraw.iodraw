@@ -134,7 +134,7 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-72" value="装备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-76" value="兑换" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-76" value="兑换兑换货币" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="565" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

@@ -110,7 +110,7 @@
           <mxGeometry x="-540" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-17" value="信用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-173" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-18" target="FuI2qOrlYPCS4XPmSqR2-164">
           <mxGeometry relative="1" as="geometry" />
@@ -386,6 +386,9 @@
           <mxGeometry x="-0.2333" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-178" value="&lt;b&gt;信用交易所&lt;br&gt;（活跃商店）&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

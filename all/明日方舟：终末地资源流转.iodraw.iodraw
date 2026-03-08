@@ -43,8 +43,8 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-20" value="抽奖券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-27" value="抽卡" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="610" y="540" width="140" height="70" as="geometry" />
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-27" value="抽卡" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="610" y="530" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

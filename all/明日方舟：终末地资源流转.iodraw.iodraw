@@ -99,7 +99,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-40" value="地区建设" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-41" target="FuI2qOrlYPCS4XPmSqR2-53">
           <mxGeometry relative="1" as="geometry" />

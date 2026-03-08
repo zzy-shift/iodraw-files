@@ -73,6 +73,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-6" target="FuI2qOrlYPCS4XPmSqR2-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-6" value="大世界探索" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="460" y="210" width="189" height="100" as="geometry" />
         </mxCell>
@@ -102,7 +105,7 @@
           <mxGeometry x="100" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-18" value="&lt;div&gt;衍质源石&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-19" value="&lt;div&gt;体力&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-520" y="150" width="120" height="60" as="geometry" />

@@ -26,7 +26,12 @@
           <mxGeometry x="470" y="660" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-6" target="FuI2qOrlYPCS4XPmSqR2-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="290" />
+              <mxPoint x="680" y="290" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-60" value="采集" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FuI2qOrlYPCS4XPmSqR2-51">
           <mxGeometry x="0.249" relative="1" as="geometry">
@@ -275,13 +280,14 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1150" y="470" />
-              <mxPoint x="1150" y="222" />
+              <mxPoint x="1150" y="240" />
+              <mxPoint x="650" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-136" value="提高大世界&lt;div&gt;区域等级&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FuI2qOrlYPCS4XPmSqR2-135">
           <mxGeometry x="-0.6102" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

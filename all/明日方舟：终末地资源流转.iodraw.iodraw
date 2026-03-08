@@ -294,7 +294,7 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-96" target="FuI2qOrlYPCS4XPmSqR2-185">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-218" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FuI2qOrlYPCS4XPmSqR2-198">
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-218" value="产出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FuI2qOrlYPCS4XPmSqR2-198">
           <mxGeometry x="0.2994" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -480,6 +480,9 @@
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-211" value="家园材料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-219" value="&lt;b&gt;通行证&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

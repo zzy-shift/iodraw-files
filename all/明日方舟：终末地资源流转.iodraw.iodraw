@@ -251,7 +251,7 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-88" value="抽卡资源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-123" target="FuI2qOrlYPCS4XPmSqR2-79">
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-123" target="FuI2qOrlYPCS4XPmSqR2-163">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="550" as="sourcePoint" />
           </mxGeometry>
@@ -341,7 +341,7 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-164" value="&lt;div&gt;体力&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.449;entryY=0.94;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-163" target="FuI2qOrlYPCS4XPmSqR2-79">
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-163" target="FuI2qOrlYPCS4XPmSqR2-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>

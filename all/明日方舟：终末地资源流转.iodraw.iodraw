@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-123" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="400" width="160" height="350" as="geometry" />
+          <mxGeometry x="80" y="440" width="160" height="350" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-112" target="FuI2qOrlYPCS4XPmSqR2-69">
           <mxGeometry relative="1" as="geometry" />
@@ -233,13 +233,13 @@
           <mxGeometry x="100" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-98" value="&lt;b&gt;资源关卡&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-99" value="&lt;b&gt;深渊关卡&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-124" value="&lt;b&gt;塔防关卡&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-96" target="FuI2qOrlYPCS4XPmSqR2-88">
           <mxGeometry relative="1" as="geometry" />

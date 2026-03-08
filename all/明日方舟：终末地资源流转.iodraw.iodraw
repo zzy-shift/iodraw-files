@@ -102,6 +102,12 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-59" value="技能升级/专精" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="890" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-61" target="FuI2qOrlYPCS4XPmSqR2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-61" value="制造基建设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="625" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

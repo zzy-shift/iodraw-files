@@ -19,6 +19,9 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-6" value="大世界探索系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="600" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

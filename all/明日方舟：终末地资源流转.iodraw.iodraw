@@ -134,11 +134,14 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-72" value="装备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="715" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-76" target="FuI2qOrlYPCS4XPmSqR2-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-76" value="兑换货币" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-77" value="&lt;b&gt;工业基建系统&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="820" width="120" height="60" as="geometry" />
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-77" value="&lt;b&gt;兑换商店&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

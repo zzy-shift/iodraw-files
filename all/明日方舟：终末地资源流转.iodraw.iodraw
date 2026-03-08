@@ -65,8 +65,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="630" y="630" />
-              <mxPoint x="810" y="630" />
-              <mxPoint x="810" y="730" />
+              <mxPoint x="850" y="630" />
+              <mxPoint x="850" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -166,7 +166,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-48" value="地区调度券" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="860" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-61" target="FuI2qOrlYPCS4XPmSqR2-40">
           <mxGeometry relative="1" as="geometry" />

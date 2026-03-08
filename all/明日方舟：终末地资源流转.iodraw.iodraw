@@ -156,15 +156,6 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-48" value="地区调度券" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="860" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-57" value="等级/潜力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="750" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-58" value="天赋阵列" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="830" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-59" value="技能升级/专精" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="910" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-61" target="FuI2qOrlYPCS4XPmSqR2-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -398,7 +389,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-100" y="1000" />
-              <mxPoint x="370" y="1000" />
+              <mxPoint x="350" y="1000" />
+              <mxPoint x="350" y="980" />
             </Array>
           </mxGeometry>
         </mxCell>

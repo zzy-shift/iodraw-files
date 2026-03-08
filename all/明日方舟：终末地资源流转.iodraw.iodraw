@@ -153,8 +153,8 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-70" target="FuI2qOrlYPCS4XPmSqR2-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-74" value="装配" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FuI2qOrlYPCS4XPmSqR2-71">
-          <mxGeometry x="0.0778" y="-2" relative="1" as="geometry">
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-108" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;装配&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FuI2qOrlYPCS4XPmSqR2-71">
+          <mxGeometry x="-0.1556" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>

@@ -115,14 +115,19 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-70" target="FuI2qOrlYPCS4XPmSqR2-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-74" value="装备" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FuI2qOrlYPCS4XPmSqR2-71">
+          <mxGeometry x="0.0778" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-70" value="武器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="565" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="565" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-72" target="FuI2qOrlYPCS4XPmSqR2-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-72" value="装备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

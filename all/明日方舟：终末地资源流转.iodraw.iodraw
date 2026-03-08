@@ -7,6 +7,11 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-6" target="FuI2qOrlYPCS4XPmSqR2-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-60" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FuI2qOrlYPCS4XPmSqR2-51">
+          <mxGeometry x="0.249" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-6" value="大世界探索" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="990" y="320" width="180" height="100" as="geometry" />
         </mxCell>
@@ -75,7 +80,7 @@
           <mxGeometry x="1010" y="625" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-52" value="&lt;b&gt;养成系统&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="660" width="210" height="30" as="geometry" />
+          <mxGeometry x="390" y="660" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-53">
           <mxGeometry relative="1" as="geometry">

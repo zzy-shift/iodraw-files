@@ -497,7 +497,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="649" y="289.53" as="sourcePoint" />
             <mxPoint x="784" y="289.53" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="670" y="290" />
+              <mxPoint x="670" y="310" />
+              <mxPoint x="650" y="310" />
+              <mxPoint x="650" y="490" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-229" value="采集" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FuI2qOrlYPCS4XPmSqR2-228">

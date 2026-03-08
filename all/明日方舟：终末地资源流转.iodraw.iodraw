@@ -87,11 +87,15 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-6" target="FuI2qOrlYPCS4XPmSqR2-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="555" y="310" />
-              <mxPoint x="555" y="340" />
+              <mxPoint x="602" y="340" />
               <mxPoint x="710" y="340" />
               <mxPoint x="710" y="630" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-243" value="送货玩法&lt;div&gt;产出&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FuI2qOrlYPCS4XPmSqR2-242">
+          <mxGeometry x="0.2044" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-6" value="大世界探索" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=25;" vertex="1" parent="1">

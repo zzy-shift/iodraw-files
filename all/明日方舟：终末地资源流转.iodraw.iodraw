@@ -279,7 +279,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-136" value="提高大世界等级" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FuI2qOrlYPCS4XPmSqR2-135">
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-136" value="提高大世界&lt;div&gt;区域等级&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FuI2qOrlYPCS4XPmSqR2-135">
           <mxGeometry x="-0.6102" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

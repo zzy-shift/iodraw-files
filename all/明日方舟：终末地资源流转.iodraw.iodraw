@@ -5,13 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-1" value="&lt;b&gt;资源&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="340" y="430" width="130" height="90" as="geometry" />
+          <mxGeometry x="354" y="430" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-4" target="FuI2qOrlYPCS4XPmSqR2-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-4" value="任务&lt;div&gt;（日常、周常）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-4" value="&lt;b&gt;任务&lt;/b&gt;&lt;div&gt;&lt;b&gt;（日常、周常）&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -559,7 +559,7 @@
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-249" value="获取工业点数&lt;div&gt;解锁/升级基建&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FuI2qOrlYPCS4XPmSqR2-248">
           <mxGeometry x="-0.0014" y="-1" relative="1" as="geometry">
-            <mxPoint x="2" as="offset" />
+            <mxPoint x="2" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

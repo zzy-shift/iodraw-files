@@ -459,7 +459,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-185" value="&lt;div&gt;衍质源石&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-185" value="&lt;div&gt;衍质源石（付费货币）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-192" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FuI2qOrlYPCS4XPmSqR2-190" target="FuI2qOrlYPCS4XPmSqR2-185" edge="1">

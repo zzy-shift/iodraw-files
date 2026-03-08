@@ -182,6 +182,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-126" value="升级/进阶" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FuI2qOrlYPCS4XPmSqR2-80">
+          <mxGeometry x="0.102" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-69" value="角色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="715" width="120" height="60" as="geometry" />
         </mxCell>

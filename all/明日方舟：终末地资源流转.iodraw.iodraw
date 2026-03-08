@@ -98,9 +98,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FuI2qOrlYPCS4XPmSqR2-65" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FuI2qOrlYPCS4XPmSqR2-62">
-          <mxGeometry y="-4" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+        <mxCell id="FuI2qOrlYPCS4XPmSqR2-66" value="设备搭建" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FuI2qOrlYPCS4XPmSqR2-62">
+          <mxGeometry x="-0.0407" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-61" value="制造基建设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">

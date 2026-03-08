@@ -66,7 +66,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-15" value="基础矿石/植物" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="782" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="784" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-16" value="&lt;span style=&quot;background-color: initial;&quot;&gt;折金券（&lt;/span&gt;金币）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-540" y="270" width="120" height="60" as="geometry" />
@@ -89,7 +89,7 @@
         <mxCell id="FuI2qOrlYPCS4XPmSqR2-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuI2qOrlYPCS4XPmSqR2-40" target="FuI2qOrlYPCS4XPmSqR2-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1060" y="260" />
+              <mxPoint x="1060" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>

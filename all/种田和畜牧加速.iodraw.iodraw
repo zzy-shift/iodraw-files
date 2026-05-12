@@ -13,8 +13,8 @@
         <mxCell id="twOrZ30T1tG7tF-NjKh6-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="twOrZ30T1tG7tF-NjKh6-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="310" width="140" height="120" as="geometry" />
+        <mxCell id="twOrZ30T1tG7tF-NjKh6-4" value="当前作物是否成熟" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

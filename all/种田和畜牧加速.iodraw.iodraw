@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="twOrZ30T1tG7tF-NjKh6-1" value="玩家对植物使用化肥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="twOrZ30T1tG7tF-NjKh6-1" value="玩家对使用作物化肥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="twOrZ30T1tG7tF-NjKh6-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="twOrZ30T1tG7tF-NjKh6-2" target="twOrZ30T1tG7tF-NjKh6-1">

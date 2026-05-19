@@ -110,6 +110,9 @@
         <mxCell id="dEGJcznj3jsXJuxEKa_p-26" value="QQ内删除好友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="710" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dEGJcznj3jsXJuxEKa_p-33" value="提示：无法删除，建议屏蔽" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

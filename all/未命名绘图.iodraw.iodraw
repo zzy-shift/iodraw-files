@@ -13,13 +13,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dEGJcznj3jsXJuxEKa_p-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_HynY6n460g5nEofQfp-1" target="dEGJcznj3jsXJuxEKa_p-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="190" />
+              <mxPoint x="190" y="190" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Z_HynY6n460g5nEofQfp-1" value="点击【删除好友】" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dEGJcznj3jsXJuxEKa_p-1" value="平台好友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dEGJcznj3jsXJuxEKa_p-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dEGJcznj3jsXJuxEKa_p-4" target="dEGJcznj3jsXJuxEKa_p-6">
           <mxGeometry relative="1" as="geometry" />

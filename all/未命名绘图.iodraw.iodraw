@@ -5,7 +5,12 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dEGJcznj3jsXJuxEKa_p-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_HynY6n460g5nEofQfp-1" target="dEGJcznj3jsXJuxEKa_p-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="190" />
+              <mxPoint x="600" y="190" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="dEGJcznj3jsXJuxEKa_p-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_HynY6n460g5nEofQfp-1" target="dEGJcznj3jsXJuxEKa_p-1">
           <mxGeometry relative="1" as="geometry" />
@@ -20,19 +25,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dEGJcznj3jsXJuxEKa_p-4" value="游戏好友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dEGJcznj3jsXJuxEKa_p-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dEGJcznj3jsXJuxEKa_p-6" target="dEGJcznj3jsXJuxEKa_p-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dEGJcznj3jsXJuxEKa_p-6" value="二次确认弹窗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dEGJcznj3jsXJuxEKa_p-7" value="确认后，彼此互删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dEGJcznj3jsXJuxEKa_p-10" value="平台好友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

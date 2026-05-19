@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="nIhTvMzak1cyuG2uHX4z">
-    <mxGraphModel dx="2022" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,8 +36,11 @@
         <mxCell id="dEGJcznj3jsXJuxEKa_p-7" value="确认后，彼此互删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="410" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dEGJcznj3jsXJuxEKa_p-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.609;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dEGJcznj3jsXJuxEKa_p-10" target="dEGJcznj3jsXJuxEKa_p-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dEGJcznj3jsXJuxEKa_p-10" value="QQ好友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="-20" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dEGJcznj3jsXJuxEKa_p-11" value="微信好友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="340" width="120" height="60" as="geometry" />
@@ -60,6 +63,9 @@
         <mxCell id="dEGJcznj3jsXJuxEKa_p-14" value="删除失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="530" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dEGJcznj3jsXJuxEKa_p-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dEGJcznj3jsXJuxEKa_p-15" target="dEGJcznj3jsXJuxEKa_p-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dEGJcznj3jsXJuxEKa_p-15" value="删除失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="530" width="120" height="60" as="geometry" />
         </mxCell>
@@ -80,6 +86,9 @@
         </mxCell>
         <mxCell id="dEGJcznj3jsXJuxEKa_p-20" value="提示：去QQ删好友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dEGJcznj3jsXJuxEKa_p-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dEGJcznj3jsXJuxEKa_p-21" target="dEGJcznj3jsXJuxEKa_p-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dEGJcznj3jsXJuxEKa_p-21" value="提示：先去QQ删好友，再去游戏删好友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="620" width="120" height="60" as="geometry" />

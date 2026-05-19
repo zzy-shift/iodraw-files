@@ -4,11 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dEGJcznj3jsXJuxEKa_p-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_HynY6n460g5nEofQfp-1" target="dEGJcznj3jsXJuxEKa_p-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z_HynY6n460g5nEofQfp-1" value="点击【删除好友】" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dEGJcznj3jsXJuxEKa_p-1" value="二次确认弹窗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dEGJcznj3jsXJuxEKa_p-3" value="二次确认弹窗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

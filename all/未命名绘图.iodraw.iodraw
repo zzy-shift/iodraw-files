@@ -45,7 +45,10 @@
         <mxCell id="dEGJcznj3jsXJuxEKa_p-10" value="QQ好友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dEGJcznj3jsXJuxEKa_p-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dEGJcznj3jsXJuxEKa_p-11" target="dEGJcznj3jsXJuxEKa_p-17">
+        <mxCell id="dEGJcznj3jsXJuxEKa_p-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dEGJcznj3jsXJuxEKa_p-11" target="dEGJcznj3jsXJuxEKa_p-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dEGJcznj3jsXJuxEKa_p-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dEGJcznj3jsXJuxEKa_p-11" target="dEGJcznj3jsXJuxEKa_p-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dEGJcznj3jsXJuxEKa_p-11" value="微信好友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -127,6 +130,9 @@
         </mxCell>
         <mxCell id="dEGJcznj3jsXJuxEKa_p-33" value="提示：无法删除，建议屏蔽" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dEGJcznj3jsXJuxEKa_p-40" value="提示：无法删除，建议屏蔽" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

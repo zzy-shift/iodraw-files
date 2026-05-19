@@ -48,8 +48,11 @@
         <mxCell id="dEGJcznj3jsXJuxEKa_p-13" value="QQ+游戏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dEGJcznj3jsXJuxEKa_p-14" value="仅QQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="dEGJcznj3jsXJuxEKa_p-14" value="删除失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dEGJcznj3jsXJuxEKa_p-15" value="删除失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

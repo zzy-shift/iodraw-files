@@ -42,11 +42,17 @@
         <mxCell id="dEGJcznj3jsXJuxEKa_p-11" value="微信好友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dEGJcznj3jsXJuxEKa_p-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dEGJcznj3jsXJuxEKa_p-12" target="dEGJcznj3jsXJuxEKa_p-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dEGJcznj3jsXJuxEKa_p-12" value="仅QQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dEGJcznj3jsXJuxEKa_p-13" value="QQ+游戏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dEGJcznj3jsXJuxEKa_p-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dEGJcznj3jsXJuxEKa_p-14" target="dEGJcznj3jsXJuxEKa_p-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dEGJcznj3jsXJuxEKa_p-14" value="删除失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="530" width="120" height="60" as="geometry" />
@@ -66,10 +72,13 @@
         <mxCell id="dEGJcznj3jsXJuxEKa_p-19" value="删除失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="530" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dEGJcznj3jsXJuxEKa_p-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dEGJcznj3jsXJuxEKa_p-20" target="dEGJcznj3jsXJuxEKa_p-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dEGJcznj3jsXJuxEKa_p-20" value="提示：去QQ删好友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dEGJcznj3jsXJuxEKa_p-21" value="提示：去QQ删好友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dEGJcznj3jsXJuxEKa_p-21" value="提示：先去QQ删好友，再去游戏删好友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dEGJcznj3jsXJuxEKa_p-22" value="QQ删除后，游戏内互删" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
